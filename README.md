@@ -15,6 +15,9 @@ The point of this test is to understand how you approach a technical problem. Th
 
 We expect this test to take you about 4 - 8 hours. Given that most people are busy, We'd like to hear back from you within 72 hours of starting.
 
+You can find the sl source here: https://github.com/mtoyoda/sl
+And some ascii art fun here: https://www.asciiart.eu/
+
 #### As soon as you begin:
 * [ ] Fork this repository into a public repository on your github/etc account
 
